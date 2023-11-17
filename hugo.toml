@@ -1,4 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://hgp22.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Henrique Pereira'
+copyright = "Copyright © 2020, Henrique Pereira."
+author = "hgp22"
 theme = 'hugo-bearblog'
